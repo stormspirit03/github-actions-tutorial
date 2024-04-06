@@ -4,7 +4,7 @@ on: push
 
 jobs: 
   build:
-    run-ons: ubantu-latest
+    runs-on: ubantu-latest
 
     steps:
     - uses: actions/checkout@v3
