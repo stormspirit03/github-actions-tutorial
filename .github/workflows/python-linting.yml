@@ -9,6 +9,6 @@ jobs:
     steps:
 
       - name: Super-Linter
-        uses: super-linter/super-linter@v6.3.1r
+        uses: super-linter/super-linter@v4.9.4
                     
             
